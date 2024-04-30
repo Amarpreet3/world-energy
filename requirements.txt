@@ -1,0 +1,6 @@
+dash
+flask
+jupyter
+pandas
+dash-bootstrap-components
+gunicorn
